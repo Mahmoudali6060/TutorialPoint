@@ -1,0 +1,13 @@
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.exe
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.deps.json
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.dll
+F:\My Projects\Learning\TutorialPoint\FileManagemet\bin\Debug\netcoreapp3.1\FileManagemet.pdb
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.csprojAssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.dll
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.pdb
+F:\My Projects\Learning\TutorialPoint\FileManagemet\obj\Debug\netcoreapp3.1\FileManagemet.genruntimeconfig.cache

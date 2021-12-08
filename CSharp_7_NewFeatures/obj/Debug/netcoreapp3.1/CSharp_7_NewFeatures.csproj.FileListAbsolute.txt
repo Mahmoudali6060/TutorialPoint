@@ -1,0 +1,13 @@
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.exe
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.deps.json
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.dll
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\bin\Debug\netcoreapp3.1\CSharp_7_NewFeatures.pdb
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.csproj.AssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.dll
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.pdb
+F:\My Projects\Learning\TutorialPoint\CSharp_7_NewFeatures\obj\Debug\netcoreapp3.1\CSharp_7_NewFeatures.genruntimeconfig.cache

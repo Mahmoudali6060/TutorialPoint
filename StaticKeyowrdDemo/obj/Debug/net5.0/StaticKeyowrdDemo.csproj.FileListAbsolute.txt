@@ -1,0 +1,16 @@
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.exe
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.deps.json
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.dll
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\ref\StaticKeyowrdDemo.dll
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\bin\Debug\net5.0\StaticKeyowrdDemo.pdb
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.csproj.AssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.dll
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\ref\StaticKeyowrdDemo.dll
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.pdb
+F:\My Projects\Learning\TutorialPoint\StaticKeyowrdDemo\obj\Debug\net5.0\StaticKeyowrdDemo.genruntimeconfig.cache

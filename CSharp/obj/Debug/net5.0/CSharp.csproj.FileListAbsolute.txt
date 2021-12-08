@@ -1,0 +1,16 @@
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.exe
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.deps.json
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.dll
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\ref\CSharp.dll
+F:\My Projects\Learning\TutorialPoint\CSharp\bin\Debug\net5.0\CSharp.pdb
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.csproj.AssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.dll
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\ref\CSharp.dll
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.pdb
+F:\My Projects\Learning\TutorialPoint\CSharp\obj\Debug\net5.0\CSharp.genruntimeconfig.cache

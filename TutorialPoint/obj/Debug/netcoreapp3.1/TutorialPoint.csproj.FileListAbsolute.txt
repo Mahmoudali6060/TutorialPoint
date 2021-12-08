@@ -1,0 +1,13 @@
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.csprojAssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.exe
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.deps.json
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.dll
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\bin\Debug\netcoreapp3.1\TutorialPoint.pdb
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.dll
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.pdb
+F:\My Projects\Learning\TutorialPoint\TutorialPoint\obj\Debug\netcoreapp3.1\TutorialPoint.genruntimeconfig.cache

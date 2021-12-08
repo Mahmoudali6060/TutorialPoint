@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBpvUYvqmWtbYd/1zYnuEJEBs4oXm9OkdfANE8bGM2L66obl1XOBEwOWQAR7Tg7sBxb8KGXAHsiqaxfGsBNgqg==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\FSharp\\FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

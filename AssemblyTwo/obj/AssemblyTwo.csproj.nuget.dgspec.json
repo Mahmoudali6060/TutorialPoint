@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyTwo\\AssemblyTwo.csproj": {}
+  },
+  "projects": {
+    "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\AssemblyOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\AssemblyOne.csproj",
+        "projectName": "AssemblyOne",
+        "projectPath": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\AssemblyOne.csproj",
+        "packagesPath": "C:\\Users\\MBR\\.nuget\\packages\\",
+        "outputPath": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MBR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Telerik\\Telerik Dlls": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyTwo\\AssemblyTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyTwo\\AssemblyTwo.csproj",
+        "projectName": "AssemblyTwo",
+        "projectPath": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyTwo\\AssemblyTwo.csproj",
+        "packagesPath": "C:\\Users\\MBR\\.nuget\\packages\\",
+        "outputPath": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MBR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Telerik\\Telerik Dlls": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\AssemblyOne.csproj": {
+                "projectPath": "F:\\My Projects\\Learning\\TutorialPoint\\AssemblyOne\\AssemblyOne.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

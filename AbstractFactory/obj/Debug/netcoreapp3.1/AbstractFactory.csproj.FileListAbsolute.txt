@@ -1,0 +1,15 @@
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.Form1.resources
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.GenerateResource.cache
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\My Projects\Learning\TutorialPoint\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
