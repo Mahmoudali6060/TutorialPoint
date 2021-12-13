@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyOne", "AssemblyOne\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyTwo", "AssemblyTwo\AssemblyTwo.csproj", "{5FEDABBE-4220-479E-935C-F4521436B060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_7_NewFeatures", "CSharp_7_NewFeatures\CSharp_7_NewFeatures.csproj", "{80172255-15CE-45E6-BE08-FE07B3B36491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_7_NewFeatures", "CSharp_7_NewFeatures\CSharp_7_NewFeatures.csproj", "{80172255-15CE-45E6-BE08-FE07B3B36491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistical", "Statistical\Statistical.csproj", "{0726CFA4-BE40-46A7-9927-F8B8E6EEE453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +129,10 @@ Global
 		{80172255-15CE-45E6-BE08-FE07B3B36491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80172255-15CE-45E6-BE08-FE07B3B36491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80172255-15CE-45E6-BE08-FE07B3B36491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{8D9FB95D-A6F6-4BB7-B2E0-35FC7805A9C0} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 		{5FEDABBE-4220-479E-935C-F4521436B060} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 		{80172255-15CE-45E6-BE08-FE07B3B36491} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
+		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453} = {C1BF62A4-63FA-42F2-BAD3-5B736A483AEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5167C87-747C-42F0-A1CC-04F82F3FB3B7}

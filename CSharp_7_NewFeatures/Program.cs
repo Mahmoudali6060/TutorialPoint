@@ -1,4 +1,5 @@
 ﻿using CSharp_7_NewFeatures.PatternMatching;
+using CSharp_7_NewFeatures.RefLocalRefReturn;
 using CSharp_7_NewFeatures.Tuples;
 using System;
 using System.Collections.Generic;
@@ -32,7 +33,33 @@ namespace CSharp_7_NewFeatures
             //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>End Digit Seperator
 
             //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Splitting Tuples
-            (string Name, double Salary, string Gender, string Dept) = NewTuples.GetEmployeeDetails();
+            //(string Name, double Salary, string Gender, string Dept) = NewTuples.GetEmployeeDetails();
+            //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>End Splitting Tuples
+
+            //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ref local-Ref Return
+
+            //[1] >>>Ref Local
+            int no1 = 1;
+            ref int no2 = ref no1;
+            no2 = 2;
+            Console.WriteLine($"local variable {nameof(no1)} after the change: {no1}");
+
+            //[2] >>>Ref Return
+
+            int[] x = { 2, 4, 62, 54, 33, 55, 66, 71, 92 };
+            ref int oddNum = ref RefReturn.GetFirstOddNumber(x); //storing as reference  
+            Console.WriteLine($"\t\t{oddNum}");
+            oddNum = 35;
+            for (int i = 0; i < x.Length; i++)
+            {
+                Console.Write($"{x[i]}\t");
+            }
+
+
+
+
+
+
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }

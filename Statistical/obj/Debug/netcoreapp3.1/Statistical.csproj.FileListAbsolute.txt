@@ -1,0 +1,13 @@
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.exe
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.deps.json
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.dll
+F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.pdb
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.csproj.AssemblyReference.cache
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.dll
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.pdb
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.genruntimeconfig.cache
