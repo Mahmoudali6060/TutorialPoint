@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Folder Include="LocalFunctions\" />
+    <Folder Include="AsyncMain\" />
   </ItemGroup>
 
 </Project>
