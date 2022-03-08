@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statistical", "Statistical\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpExceptionHandling", "CSharpExceptionHandling\CSharpExceptionHandling.csproj", "{49EF177E-D7CC-4EE6-97CB-3E12A3A9C98C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{53453242-A46C-4433-BF33-30A2E42B198D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{53453242-A46C-4433-BF33-30A2E42B198D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{9B1493DB-A1E1-4911-8766-2EACBF3D2438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +147,10 @@ Global
 		{53453242-A46C-4433-BF33-30A2E42B198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53453242-A46C-4433-BF33-30A2E42B198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53453242-A46C-4433-BF33-30A2E42B198D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +177,7 @@ Global
 		{0726CFA4-BE40-46A7-9927-F8B8E6EEE453} = {C1BF62A4-63FA-42F2-BAD3-5B736A483AEC}
 		{49EF177E-D7CC-4EE6-97CB-3E12A3A9C98C} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 		{53453242-A46C-4433-BF33-30A2E42B198D} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
+		{9B1493DB-A1E1-4911-8766-2EACBF3D2438} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5167C87-747C-42F0-A1CC-04F82F3FB3B7}
