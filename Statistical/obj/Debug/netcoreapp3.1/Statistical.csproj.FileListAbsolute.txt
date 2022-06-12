@@ -11,3 +11,4 @@ F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statis
 F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.dll
 F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.pdb
 F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.genruntimeconfig.cache
+F:\My Projects\Learning\TutorialPoint\Statistical\obj\Debug\netcoreapp3.1\Statistical.GeneratedMSBuildEditorConfig.editorconfig

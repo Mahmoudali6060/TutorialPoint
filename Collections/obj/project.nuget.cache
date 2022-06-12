@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JStdjhbeD0p4etI2A/sGzMUoEEogHxkwVwnWFGohj64uQYswLdfjfiJu3JEopLyS3FMmJbFgV3xy+ls14iehNg==",
+  "dgSpecHash": "kdimda5417osp1A4MY/jhSuQo1ph0DEMzvxzwyGCBjOIITp61pY1oISa1YAFCqCodtr0VcJ/5iFX7yPmLQ+OSQ==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\Collections\\Collections.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }

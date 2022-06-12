@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o/aQRqzCV/b7LTXvxo1JXp/66XDoPV54UuazjGyA9Axp8/d0zAvjcUq7hjzMA5etHtKk389Lx0SPWcK8IGHzjw==",
+  "dgSpecHash": "ktv6fZLRxTZ9WYKWaX8+ViHaWBOloWCUaF/qMc+2OYgN9XgLX1QT4uj/UrZMES+376LV5d0TZ4zAgSaHXt+rjA==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\AccessSpecifierDemo\\AccessSpecifierDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

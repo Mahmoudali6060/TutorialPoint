@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ud6OPHo2RZBGilBQTqhOIW/JC2kFY/lYDz06qFJfM2NVehWdApYwfOBICI70H9gbua9zTFX4pvLIRl62WtQCiw==",
+  "dgSpecHash": "C1CwopBeimBLEYJqUK4JF/5cgbFK8suZzEapDtf9Lq/M1wmN3zdULwoyA7GrlpA+M7iY1SDLSZGKxWHdADk7xw==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\Delegates\\Delegates.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pOzYFTfPKb12fCeKUdyPhPoaSbHNahZgfhDRgZdIzAuBPO+VbUob/n9ZgpBepSixupUl6pM9l0q+g5Z9gGQJsQ==",
+  "dgSpecHash": "9y+PBcXSrboGKLwbLOrMme4utHg/ePMEc/tdtRYWexsG9xFZx5i4KD7SAkfqyD1zL8iLFkevh7An3YJtTAKc+w==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\HackerRank\\Arrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBsKKF9bLJV//c/OBYd/kWXAXmrCgUjazQnDrrC5+sKlIUea9bLZcVUHH46TkHtix3skcduPT2yoGSZin3TZMQ==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\Multi_Threading\\Multi_Threading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

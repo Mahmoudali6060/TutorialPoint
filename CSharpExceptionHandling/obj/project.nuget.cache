@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fWan4KNuV060cGaBaKWrGPYlRDLuTskpy0zodbv8W69hxHf5TueP1KS3tTcIb3d0432u7UMuS1+8ohRK6ROKtw==",
+  "dgSpecHash": "bE5D0ISICY2JPzX/KuD+aIWnYUbJro4sBsAFShJ/oqq38YXkBwvmIkQljg1grwgvEbuBKKhuyrEsTa6Ejo/ZZw==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\CSharpExceptionHandling\\CSharpExceptionHandling.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "urQB/m5ucyCQenCk2QVdfNKE3ZvjAIAjhyLwvSLx7wHeyzPI4jHEXGps9jNWbZLsmTDYRdHr5kbjid+P5sOFZw==",
+  "dgSpecHash": "hY2cAoznJPP9anOXIZED9iKfo3qOtlEFPmEAx1R5E4XaRRZsh+BAVjhtCvJkNLfOR1nZm+aO/4QLoGt9VN2a+Q==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\AbstractFactory\\AbstractFactory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }

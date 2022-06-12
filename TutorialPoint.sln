@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpExceptionHandling", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{53453242-A46C-4433-BF33-30A2E42B198D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{9B1493DB-A1E1-4911-8766-2EACBF3D2438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{9B1493DB-A1E1-4911-8766-2EACBF3D2438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Threading", "Multi_Threading\Multi_Threading.csproj", "{D33BCD67-9CCE-462F-8A44-D176ED805066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,10 @@ Global
 		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1493DB-A1E1-4911-8766-2EACBF3D2438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33BCD67-9CCE-462F-8A44-D176ED805066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33BCD67-9CCE-462F-8A44-D176ED805066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33BCD67-9CCE-462F-8A44-D176ED805066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33BCD67-9CCE-462F-8A44-D176ED805066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,6 +184,7 @@ Global
 		{49EF177E-D7CC-4EE6-97CB-3E12A3A9C98C} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 		{53453242-A46C-4433-BF33-30A2E42B198D} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 		{9B1493DB-A1E1-4911-8766-2EACBF3D2438} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
+		{D33BCD67-9CCE-462F-8A44-D176ED805066} = {E0F61EC7-18C8-4CB1-836E-34100A8F2FAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5167C87-747C-42F0-A1CC-04F82F3FB3B7}

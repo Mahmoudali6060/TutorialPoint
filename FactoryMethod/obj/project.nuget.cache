@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IhMnHnXK0FyHeqBpy5OCPZpgL9NIlCunFOMaRkBnz260wfwV48LePhmQjskm50pfuCzQ2iP4jJ4EKE4UW6qEbA==",
+  "dgSpecHash": "yUuCqhLB8YsuI19+QKnz0jvAF1FNbiKWn3Hu8UBT+Ze2f7e7Q1VVTSN2RFUKQ8NB3yU8NUfLuYnawCyiD+4CUA==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\FactoryMethod\\FactoryMethod.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }

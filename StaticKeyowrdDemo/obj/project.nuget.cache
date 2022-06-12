@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1/F16pLqUcQqd6fip0/RCMSa0ZwYHHLVQMpNuz2bp7hrluRClo81Hm2l4s66EnUV44IXQXpkjl2XezLgldoyig==",
+  "dgSpecHash": "Ohm8lU8MlKSUV91qZLwgHs9SXBlTQ11pcHBVA3XLfaEYELUS3ItOSN6+DhfhqyI8oxaGKkehlbuDP8wU/6UzYA==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\StaticKeyowrdDemo\\StaticKeyowrdDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

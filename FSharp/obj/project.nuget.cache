@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nBpvUYvqmWtbYd/1zYnuEJEBs4oXm9OkdfANE8bGM2L66obl1XOBEwOWQAR7Tg7sBxb8KGXAHsiqaxfGsBNgqg==",
+  "dgSpecHash": "rsK1NB61pjgLl17D0cmOfRX6Qxl8tnbj1+s8yBj1eOMZmlaaF2x4WZqVCMFBHhDzrLX151CpbLo/Z79LUYDCOA==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\FSharp\\FSharp.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MBR\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\MBR\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

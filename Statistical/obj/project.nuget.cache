@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Hey9t5skkt1oACsWwKGoU4DLUMppXVRnVAfhb05M20jY6SY9aGqPB+8JxbP8I5llAiPfMg2LJZFB+cKuO4BDKQ==",
+  "dgSpecHash": "KCdiKzBXPD3qT25Lbleu4UIF8lcZdS/necgPHDXGdDkvjzFW03/L89tT55SNXujRXK45nFePq4KdOCNzpWlVmQ==",
   "success": true,
   "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\Statistical\\Statistical.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
   "logs": []
 }
