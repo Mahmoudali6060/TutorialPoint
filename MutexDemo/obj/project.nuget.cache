@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNveCVOyJX/nR+TmbL43jlaiV9QEgFtf/dMe1Lql0g6rYXJkynKYGefoNzYZg2FSR4XhP5qGGzeorqBpry2Q3w==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\MutexDemo\\MutexDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

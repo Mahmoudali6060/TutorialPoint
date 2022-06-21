@@ -118,19 +118,35 @@ namespace Multi_Threading
             #endregion
 
             #region Using Lock
-            Thread t1 = new Thread(ThreadSynchronization.IncrementCount);
-            Thread t2 = new Thread(ThreadSynchronization.IncrementCount);
-            Thread t3 = new Thread(ThreadSynchronization.IncrementCount);
-            t1.Start();
-            t2.Start();
-            t3.Start();
-            //Wait for all three threads to complete their execution
-            t1.Join();
-            t2.Join();
-            t3.Join();
-            Console.WriteLine(ThreadSynchronization.count);
-            Console.Read();
+            //Thread t1 = new Thread(ThreadSynchronization.IncrementCount);
+            //Thread t2 = new Thread(ThreadSynchronization.IncrementCount);
+            //Thread t3 = new Thread(ThreadSynchronization.IncrementCount);
+            //t1.Start();
+            //t2.Start();
+            //t3.Start();
+            ////Wait for all three threads to complete their execution
+            //t1.Join();
+            //t2.Join();
+            //t3.Join();
+            //Console.WriteLine(ThreadSynchronization.count);
+            //Console.Read();
             #endregion
+
+            #region Monitor
+
+            Thread[] Threads = new Thread[3];
+            for (int i = 0; i < 3; i++)
+            {
+                Threads[i] = new Thread(MonitorHelper.PrintNumbers);
+                Threads[i].Name = "Child Thread " + i;
+            }
+            foreach (Thread t in Threads)
+            {
+                t.Start();
+            }
+            Console.ReadLine();
+            #endregion
+
             Console.Read();
 
         }

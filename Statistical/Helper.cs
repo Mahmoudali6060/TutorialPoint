@@ -36,5 +36,24 @@ namespace Statistical
             .Key;
         }
 
+        public static void weightedMean(List<int> X, List<int> W)
+        {
+            double xSum = 0.0D;
+            double wSum = 0.0D;
+
+            for (int i = 1; i <= X.Count(); i++)
+            {
+                xSum += W[i - 1] * X[i - 1];
+                wSum += W[i - 1];
+            }
+
+            double result = Math.Round(xSum / wSum, 1);
+            string gg = result.ToString();
+            if (!gg.Contains("."))
+            {
+                gg += ".0";
+            }
+            Console.WriteLine(gg);
+        }
     }
 }

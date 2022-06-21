@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Statistical</id>
+    <version>1.0.0</version>
+    <authors>Statistical</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.runtimeconfig.json" target="lib\netcoreapp3.1\Statistical.runtimeconfig.json" />
+    <file src="F:\My Projects\Learning\TutorialPoint\Statistical\bin\Debug\netcoreapp3.1\Statistical.dll" target="lib\netcoreapp3.1\Statistical.dll" />
+  </files>
+</package>

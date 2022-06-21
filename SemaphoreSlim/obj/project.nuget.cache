@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9gvHi6b/SFpkxrmT8TSzuF/ToMl5XyI6fAzaYyAOMlGxgRqWlrN3sHk9x0ikicoSkdzIC0fM6Jnc0BXuysP5Q==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\SemaphoreSlim\\SemaphoreSlimDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

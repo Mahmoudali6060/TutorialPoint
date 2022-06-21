@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E449ttBuIF3R/vtRGgf+zhHp4tNRWSawrACutZTKveLN3zrrigk35xX8HOwC5LJWq7U1dzQhdzr/Yl9wiIOCXw==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\SemaphoreDemo\\SemaphoreDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
