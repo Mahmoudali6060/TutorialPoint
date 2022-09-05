@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fGlc0s9DPdtAkOiKDJ3ojTBxcnQwC5M6hY2gw6S4aIjU4NTWK2VnhpUz6zDzLBrSyhsROkxhdwO9NAutZgUjQ==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\ParallelProgramming\\ParallelProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
