@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJyNwa90st2VhIHI61CUZOXJMOmKhLUDTV45KCZvbLquWxyP1n0DByNX5DXUZE4FyvPX9OoL9CzJ5kO5FfCIkQ==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\AsyncProgramming\\AsyncProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

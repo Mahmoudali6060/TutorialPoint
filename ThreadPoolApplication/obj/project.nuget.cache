@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2D1FqiS7P/hPOCIES6XrvOMccsHV30BAAlbl8xgne0IJi2CU6zS0N9ZT42o2d8uNhG5+izNB+vK2I5fc2IPuA==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\ThreadPoolApplication\\ThreadPoolApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

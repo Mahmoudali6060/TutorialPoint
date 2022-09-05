@@ -1,0 +1,13 @@
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.exe
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.deps.json
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.runtimeconfig.json
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.runtimeconfig.dev.json
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.dll
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\bin\Debug\netcoreapp3.1\DeadLockDemo.pdb
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.AssemblyInfoInputs.cache
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.AssemblyInfo.cs
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.csproj.CoreCompileInputs.cache
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.dll
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.pdb
+F:\My Projects\Learning\TutorialPoint\DeadLockDemo\obj\Debug\netcoreapp3.1\DeadLockDemo.genruntimeconfig.cache

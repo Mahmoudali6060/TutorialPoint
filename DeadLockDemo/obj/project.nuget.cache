@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCOkEf4n5ndh87+8977zARWVvlvyarO2avWTNtLdLrhQFkrvyAXOR2VRxguqsfbU+zaUWLIxnVKpO05b9J7EZQ==",
+  "success": true,
+  "projectFilePath": "F:\\My Projects\\Learning\\TutorialPoint\\DeadLockDemo\\DeadLockDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
